@@ -3,3 +3,4 @@ __pycache__/
 .env
 .DS_Store
 .idea/
+week-06/telco.csv
